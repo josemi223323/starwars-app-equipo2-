@@ -1,0 +1,13 @@
+{
+  "name": "starwars-app-equipox",
+  "version": "1.0.0",
+  "description": "Cliente Frontend para el consumo de la API REST de Star Wars",
+  "main": "src/app.js",
+  "type": "module",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": ["frontend", "javascript", "swapi", "daw"],
+  "author": "Equipo X",
+  "license": "ISC"
+}
