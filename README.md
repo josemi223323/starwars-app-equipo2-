@@ -1,4 +1,4 @@
- # Aplicación Web Star Wars - Entorno de Producción Cloud
+# Directorio de Personajes SWAPI - Entorno de Desarrollo Local
 
 Aplicación cliente web desarrollada en JavaScript Vanilla modular (ES Modules) para la gestión y consumo de personajes mediante la API pública SWAPI.
 
