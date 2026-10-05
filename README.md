@@ -1,4 +1,4 @@
-# Explorador de Star Wars - Equipo X
+ # Aplicación Web Star Wars - Entorno de Producción Cloud
 
 Aplicación cliente web desarrollada en JavaScript Vanilla modular (ES Modules) para la gestión y consumo de personajes mediante la API pública SWAPI.
 
